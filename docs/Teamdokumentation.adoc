@@ -1,6 +1,6 @@
 = Teamdokumentation
 Zakaria Lehmadi <zlehmann@gmail.com>; Mohamed Benhaddia <MBenhaddia@gmail.com>
-0.1, 01.09.2019
+0.1, 19.10.2023
 :toc:
 :toc-title: Inhaltsverzeichnis
 // Platzhalter für weitere Dokumenten-Attribute
