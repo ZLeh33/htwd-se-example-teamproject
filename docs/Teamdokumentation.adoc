@@ -1,5 +1,5 @@
 = Teamdokumentation
-Zakaria Lehmadi <zlehmann@gmail.com>
+Zakaria Lehmadi <zlehmann@gmail.com>; Mohamed Benhaddia <MBenhaddia@gmail.com>
 0.1, 01.09.2019
 :toc:
 :toc-title: Inhaltsverzeichnis
