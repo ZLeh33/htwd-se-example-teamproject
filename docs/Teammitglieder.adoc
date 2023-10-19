@@ -1,4 +1,8 @@
 == Teammitglieder
 
-Zakaria Lehmadi
-Mohamed Benhaddia
+|===
+| *Vorname* | *Nachname* | *Role* 
+
+| Mohamed | Benhaddia | PersonB
+| Zakaria | Lehmadi   | PersonA 
+|=== 
