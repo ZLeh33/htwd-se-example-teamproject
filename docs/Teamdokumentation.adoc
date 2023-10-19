@@ -5,7 +5,7 @@ Zakaria Lehmadi <zlehmann@gmail.com>; Mohamed Benhaddia <MBenhaddia@gmail.com>
 :toc-title: Inhaltsverzeichnis
 // Platzhalter für weitere Dokumenten-Attribute
 
-== Einführung 1
+== Einführung 2
 Dieses Dokument dient im Praktikum als Spielwiese für das Kennenlernen und praktische Üben von AsciiDoc und Teamarbeit mit Git.
 
 ==includes
