@@ -2,7 +2,7 @@
 Zakaria Lehmadi <zlehmann@gmail.com>; Mohamed Benhaddia <MBenhaddia@gmail.com>
 0.1, 19.10.2023
 :toc:
-:toc-title: Inhaltt
+:toc-title: Inhalt
 // Platzhalter für weitere Dokumenten-Attribute
 
 == Einführung 1
